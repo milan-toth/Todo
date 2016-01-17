@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="btnAdd">Add</string>
+    <string name="txtTodo">Add new todo</string>
+</resources>
